@@ -132,3 +132,29 @@
     border: 4px solid #2e81f4;
 
 }
+.post{
+    width: 100%;
+    margin: 15px;
+    border-radius: 15px;
+    background-color: white;
+}
+.postImage img{
+    width: 100%;
+}
+.postTop{
+    display: flex;
+    position: relative;
+ align-items: center;   
+ padding: 15px;
+}
+.postTopInfo h3{
+    margin-left: 10px;
+}
+.postTopInfo p{
+    margin-left: 10px;
+}
+.postOptions{
+display: flex;
+justify-content: space-between;
+margin: 10px;
+}
